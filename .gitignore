@@ -1,0 +1,33 @@
+# STM32CubeIDE / Eclipse build artifacts
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# Object and dependency files
+*.o
+*.d
+*.su
+*.cyclo
+*.map
+*.elf
+*.bin
+*.hex
+*.lst
+*.list
+*.axf
+*.ihex
+*.a
+*.srec
+*.dep
+
+# Temp/editor files
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.crf
+
+# Python virtualenv
+.venv/
